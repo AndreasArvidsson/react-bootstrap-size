@@ -1,0 +1,25 @@
+{
+    "name": "react-bootstrap-size",
+    "description": "Developer tool that renders display size based on Bootstrap breakpoints",
+    "version": "1.0.0",
+    "files": [
+        "index.js"
+    ],
+    "keywords": [
+        "bootstrap",
+        "responsive",
+        "size",
+        "display",
+        "breakpoint"
+    ],
+    "author": "Andreas Arvidsson",
+    "license": "MIT",
+    "homepage": "https://github.com/AndreasArvidsson/react-bootstrap-size",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AndreasArvidsson/react-bootstrap-size.git"
+    },
+    "bugs": {
+        "url": "https://github.com/AndreasArvidsson/react-bootstrap-size/issues"
+    }
+}
